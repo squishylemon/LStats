@@ -1,0 +1,15 @@
+<meta>
+	<info author="Squishylemon" description="Saves Stats" />
+
+	<script src="Shared/llib.js" type="server" language="javascript" />
+	
+	
+	<script src="config.js" type="client" language="javascript" />
+	<script src="config.js" type="server" language="javascript" />
+	
+	<script src="Server/main.js" type="server" language="javascript" />
+
+	<script src="Client/player.js" type="client" language="javascript" />
+	<script src="Client/debug.js" type="client" language="javascript" />
+
+</meta>
