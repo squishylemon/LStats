@@ -58,7 +58,7 @@ function getPlayerStats(playerName) {
         return null;
     }
 
-    if(existingData.trim() !== "") {
+    if(existingData.trim() === "") {
         return;
     }
 
